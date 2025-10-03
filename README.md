@@ -47,7 +47,7 @@ Full support for **FML** and **FML++** in Visual Studio Code.
 ---
 
 ## Example (FML++)
-BTW, this is a comment
+`BTW, this is a comment
 & You can also do comments like this.
 FMLVer is 1.0.0
 FMLPPVer is 1.0.0
@@ -60,6 +60,4 @@ Here's a nest:
 ~ is this cool? is yes!
 Here's an array:
 ~ how much people using FML/FML++? (1,2,3,4,5,6)
-peace out? is yes
-MIT License  
-Feel free to modify and distribute as you like.
+peace out? is yes`
