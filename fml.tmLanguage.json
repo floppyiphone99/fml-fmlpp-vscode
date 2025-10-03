@@ -1,0 +1,14 @@
+{
+  "scopeName": "source.fml",
+  "patterns": [
+    { "name": "comment.line.fml", "match": "^(BTW,|&) .*" },
+    { "name": "storage.type.const.fml", "match": "\\bConst\\b" },
+    { "name": "storage.type.var.fml", "match": "\\bVar\\b" },
+    { "name": "keyword.operator.fml", "match": "\\bis\\b" },
+    { "name": "entity.name.section.fml", "match": "^\\w+:" },
+    { "name": "constant.character.fml", "match": "^~+" },
+    { "name": "string.unquoted.fml", "match": "(?<=is ).*" }
+  ],
+  "repository": {}
+}
+
