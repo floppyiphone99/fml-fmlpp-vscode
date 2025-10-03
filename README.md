@@ -45,19 +45,3 @@ Full support for **FML** and **FML++** in Visual Studio Code.
 | FML++    | `.fmlpp`, `.fml++` |
 
 ---
-
-## Example (FML++)
-(`BTW, this is a comment
-& You can also do comments like this.
-FMLVer is 1.0.0
-FMLPPVer is 1.0.0
-FML won't be updated, only FML++ does is true
-Here's a nest:
-~ one level
-~~ two levels
-~~~ three levels, you can go as high as you want
-~ or you can do this, lemme show you
-~ is this cool? is yes!
-Here's an array:
-~ how much people using FML/FML++? (1,2,3,4,5,6)
-peace out? is yes`)
