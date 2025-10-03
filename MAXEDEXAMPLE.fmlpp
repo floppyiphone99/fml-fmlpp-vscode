@@ -1,0 +1,51 @@
+BTW, MAXED-OUT FML++ DEMO
+& This file shows every feature possible
+
+FML_version is 1.0.0
+FMLPP_version is 1.0.0
+maintainer is floppyiphone99
+last_updated is 2025-10-02
+
+BTW, NESTED STRUCTURES
+project_details:
+~ name is FML++
+~ description is "Floppy Markup Language ++"
+~ features:
+~~ syntax_highlighting is true
+~~ arrays_supported is true
+~~ nested_structures_supported is true
+~~ XML_conversion is true
+~ contributors:
+~~ "No one"
+~~ "No one"
+~~ "No one"
+~ release_notes:
+~~ "Initial release"
+~~ "Added arrays and nested structures"
+~~ "Supports FML!-style errors"
+
+BTW, ARRAYS AND MIXED VALUES
+user_stats:
+~ active_users is (123, 456, 789)
+~ top_countries is ("USA", "Canada", "Germany")
+~ mixed_array is (42, "Hello", true, (1,2,3), {"key":"value"})
+
+BTW, COMMENTS EVERYWHERE
+& You can comment using & or BTW,
+some_misc:
+~ note is "This can be anything"
+~ random_values is ("🍕", 3.14159, false)
+~ nested_array_demo:
+~~ first_level is (1,2,3)
+~~ second_level:
+~~~ deeper_value is "Wow!"
+~~ second_level_array is (true, false, "Yes", "No")
+
+BTW, FML!-ERROR EXAMPLE
+danger_zone:
+~ risky_value is ???  BTW, parser should flag this
+~ error_message is FML! Code: 001 "Invalid value"
+
+BTW, FINAL NOTES
+peace_out? is yes
+good_luck? is true
